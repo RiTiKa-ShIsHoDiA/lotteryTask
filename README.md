@@ -1,2 +1,2 @@
-# lotteryTask
-a lottery task using react 
+# lotteryTask🤑🤑
+  a lottery task using react 
